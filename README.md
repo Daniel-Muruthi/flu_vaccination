@@ -1,1 +1,1 @@
-### Seasonal Flu Vaccine
+### Flu Vaccine
