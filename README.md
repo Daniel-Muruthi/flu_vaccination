@@ -30,7 +30,7 @@ The data for this project is sourced from the National 2009 H1N1 Flu Survey, con
 
 ### Presentation
 
--
+- https://github.com/Daniel-Muruthi/flu_vaccination/blob/master/h1n1.pdf
 
 ### Author
 
