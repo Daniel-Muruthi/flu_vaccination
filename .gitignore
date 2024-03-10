@@ -1,3 +1,5 @@
 # Datasets
 *.csv
+.ipynb_checkpoints
+
 
